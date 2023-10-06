@@ -23,8 +23,10 @@
  </OUTPUT_FILES>
  <LABELS>
   <init><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>9</LINE></init>
-  <startup><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>28</LINE></startup>
-  <loop><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>20</LINE></loop>
-  <alarm><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>35</LINE></alarm>
+  <startupAndReset><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>39</LINE></startupAndReset>
+  <loop><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>19</LINE></loop>
+  <loop_alarm><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>27</LINE></loop_alarm>
+  <timer><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>44</LINE></timer>
+  <timer2><FILE>C:\Users\dgutmann\Documents\GitHub\AtmegaTest\ATmega88_firstTest\main.asm</FILE><LINE>49</LINE></timer2>
  </LABELS>
 </ASSEMBLER_INFO>
