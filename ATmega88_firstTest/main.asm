@@ -21,7 +21,7 @@ loop:
 	sbi PORTC, Line1_Led_ok			;Alles ok an
 	cbi PORTC, Line1_Led_alarm		;Alarm LED aus
 	sbis PIND, Line1_Sensor
-	rcall alarm1
+	rcall alarm
 
 	rjmp loop
 
